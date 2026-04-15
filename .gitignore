@@ -8,3 +8,4 @@ approaches_old
 .vscode-server
 .vscode
 .windsurf-server
+__pycache__
