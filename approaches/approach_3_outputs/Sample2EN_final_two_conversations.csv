@@ -1,0 +1,3 @@
+audio_name,customer_index,start,end,duration,start_hms,end_hms,method,score,source_conversation_ids
+Sample2EN.mp3,1,17.848,209.0,191.152,00:17.848,03:29.000,diarization_interaction_score,18.328,1
+Sample2EN.mp3,2,526.232,623.72,97.48800000000006,08:46.232,10:23.720,diarization_interaction_score,17.578,7

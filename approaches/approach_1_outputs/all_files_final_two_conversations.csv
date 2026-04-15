@@ -1,0 +1,7 @@
+audio_name,customer_index,start,end,duration,start_hms,end_hms,method,score,source_conversation_ids
+Sample1KN.mp3,1,268.0,308.4,40.39999999999998,04:28.000,05:08.400,top_2_longest_baseline_candidates,40.39999999999998,6
+Sample1KN.mp3,2,581.0,626.5,45.5,09:41.000,10:26.500,top_2_longest_baseline_candidates,45.5,13
+Sample2EN.mp3,1,17.8,209.0,191.2,00:17.800,03:29.000,top_2_longest_baseline_candidates,191.2,1
+Sample2EN.mp3,2,216.1,352.8,136.70000000000002,03:36.100,05:52.800,top_2_longest_baseline_candidates,136.70000000000002,2
+sample3KN.mp3,1,0.2,48.1,47.9,00:00.200,00:48.100,top_2_longest_baseline_candidates,47.9,1
+sample3KN.mp3,2,56.3,213.4,157.10000000000002,00:56.300,03:33.400,top_2_longest_baseline_candidates,157.10000000000002,2

@@ -1,0 +1,10 @@
+nltk_data
+approaches_old
+.DS_Store
+.cursor-server
+.env
+.idea/
+.mpl_cache/
+.vscode-server
+.vscode
+.windsurf-server

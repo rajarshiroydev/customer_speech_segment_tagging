@@ -1,0 +1,3 @@
+audio_name,customer_index,start,end,duration,start_hms,end_hms,method,score,source_conversation_ids
+sample3KN.mp3,1,0.2,48.1,47.9,00:00.200,00:48.100,top_2_longest_baseline_candidates,47.9,1
+sample3KN.mp3,2,56.3,213.4,157.10000000000002,00:56.300,03:33.400,top_2_longest_baseline_candidates,157.10000000000002,2

@@ -1,0 +1,32 @@
+{
+    "Sample1KN.mp3": {
+        "Conversation 1": {
+            "start": 16.0,
+            "end": 390.0
+        },
+        "Conversation 2": {
+            "start": 520.0,
+            "end": 660.0
+        }
+    },
+    "Sample2EN.mp3": {
+        "Conversation 1": {
+            "start": 18.0,
+            "end": 390.0
+        },
+        "Conversation 2": {
+            "start": 525.0,
+            "end": 921.0
+        }
+    },
+    "sample3KN.mp3": {
+        "Conversation 1": {
+            "start": 0.0,
+            "end": 142.0
+        },
+        "Conversation 2": {
+            "start": 148.0,
+            "end": 362.0
+        }
+    }
+}

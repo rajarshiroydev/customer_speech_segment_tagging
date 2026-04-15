@@ -1,0 +1,3 @@
+audio_name,customer_index,start,end,duration,start_hms,end_hms,method,score,source_conversation_ids
+Sample1KN.mp3,1,0.031,268.023,267.992,00:00.031,04:28.023,dense_asr_boundary,,
+Sample1KN.mp3,2,268.023,661.818,393.79499999999996,04:28.023,11:01.818,dense_asr_boundary,,

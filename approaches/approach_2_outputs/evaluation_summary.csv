@@ -1,0 +1,4 @@
+approach,audio_name,mean_abs_start_error_s,mean_abs_end_error_s,mean_iou
+approach_2_vad,Sample1KN.mp3,156.456,57.56800000000001,0.2166249045072574
+approach_2_vad,Sample2EN.mp3,154.54799999999997,374.61199999999997,0.2566155764311357
+approach_2_vad,sample3KN.mp3,45.904,121.224,0.2759669332771039

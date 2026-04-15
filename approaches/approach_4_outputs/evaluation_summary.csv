@@ -1,0 +1,4 @@
+approach,audio_name,mean_abs_start_error_s,mean_abs_end_error_s,mean_iou
+approach_4_whisperx,Sample1KN.mp3,156.472,57.56800000000001,0.21658212375859426
+approach_4_whisperx,Sample2EN.mp3,2.164000000000023,149.57999999999998,0.616806857210025
+approach_4_whisperx,sample3KN.mp3,67.86399999999999,82.048,0.29865979549746907

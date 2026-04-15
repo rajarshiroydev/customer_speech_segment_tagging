@@ -1,0 +1,7 @@
+approach,audio_name,customer_index,pred_start,pred_end,gt_start,gt_end,start_error_s,end_error_s,abs_start_error_s,abs_end_error_s,iou
+approach_1_baseline,Sample1KN.mp3,1,268.0,308.4,16.0,390.0,252.0,-81.60000000000002,252.0,81.60000000000002,0.10802139037433149
+approach_1_baseline,Sample1KN.mp3,2,581.0,626.5,520.0,660.0,61.0,-33.5,61.0,33.5,0.325
+approach_1_baseline,Sample2EN.mp3,1,17.8,209.0,18.0,390.0,-0.1999999999999993,-181.0,0.1999999999999993,181.0,0.5131649650725416
+approach_1_baseline,Sample2EN.mp3,2,216.1,352.8,525.0,921.0,-308.9,-568.2,308.9,568.2,0.0
+approach_1_baseline,sample3KN.mp3,1,0.2,48.1,0.0,142.0,0.2,-93.9,0.2,93.9,0.3373239436619718
+approach_1_baseline,sample3KN.mp3,2,56.3,213.4,148.0,362.0,-91.7,-148.6,91.7,148.6,0.2139352306182532

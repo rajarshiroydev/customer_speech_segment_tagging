@@ -1,0 +1,4 @@
+audio_name,strategy,asr_quality,repetition_ratio,char_repeat_ratio,latin_char_ratio,speaker_rows,separator
+Sample1KN.mp3,dense_split_no_major_separator,low,0.9103362391033624,0.015972618368511125,0.14652223489167618,0,
+Sample2EN.mp3,dense_split_no_major_separator,usable,0.771343726800297,0.03596709393533576,0.8794950267788829,0,
+sample3KN.mp3,dense_split_no_major_separator,low,0.9327354260089686,0.0011135857461024498,0.0,0,

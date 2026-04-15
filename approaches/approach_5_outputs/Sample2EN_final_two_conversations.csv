@@ -1,0 +1,3 @@
+audio_name,customer_index,start,end,duration,start_hms,end_hms,method,score,source_conversation_ids
+Sample2EN.mp3,1,18.183,379.59,361.407,00:18.183,06:19.590,dense_asr_boundary,,
+Sample2EN.mp3,2,379.61,921.34,541.73,06:19.610,15:21.340,dense_asr_boundary,,

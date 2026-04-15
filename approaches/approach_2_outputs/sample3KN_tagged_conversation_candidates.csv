@@ -1,0 +1,8 @@
+audio_name,conversation_id,start,end,duration,num_regions,start_hms,end_hms,assigned_customer_index,is_selected_candidate,source_final_start,source_final_end,assignment_reason
+sample3KN.mp3,1,0.152,48.136,47.984,1,00:00.152,00:48.136,1,True,0.152,48.136,selected_as_customer_1
+sample3KN.mp3,2,56.344,213.416,157.072,9,00:56.344,03:33.416,2,True,56.344,213.416,selected_as_customer_2
+sample3KN.mp3,3,218.68,220.904,2.2239999999999895,1,03:38.680,03:40.904,,False,,,not_selected
+sample3KN.mp3,4,227.384,269.32,41.93600000000001,6,03:47.384,04:29.320,,False,,,not_selected
+sample3KN.mp3,5,276.376,315.016,38.64000000000004,5,04:36.376,05:15.016,,False,,,not_selected
+sample3KN.mp3,6,320.472,332.584,12.112000000000023,2,05:20.472,05:32.584,,False,,,not_selected
+sample3KN.mp3,7,340.056,362.5,22.444000000000017,3,05:40.056,06:02.500,,False,,,not_selected

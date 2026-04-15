@@ -1,0 +1,3 @@
+audio_name,customer_index,start,end,duration,start_hms,end_hms,method,score,source_conversation_ids
+Sample2EN.mp3,1,17.848,413.832,395.984,00:17.848,06:53.832,whisperx_semantic_bridge_score,55.533,1|2|3|4
+Sample2EN.mp3,2,529.176,645.672,116.49599999999998,08:49.176,10:45.672,whisperx_semantic_bridge_score,47.655,7|8|9

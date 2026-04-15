@@ -1,0 +1,15 @@
+audio_name,conversation_id,start,end,duration,num_regions,start_hms,end_hms,assigned_customer_index,is_selected_candidate,source_final_start,source_final_end,assignment_reason
+Sample1KN.mp3,1,4.2,38.5,34.3,,00:04.200,00:38.500,,False,,,not_selected
+Sample1KN.mp3,2,45.2,46.8,1.5999999999999943,,00:45.200,00:46.800,,False,,,not_selected
+Sample1KN.mp3,3,57.0,66.0,9.0,,00:57.000,01:06.000,,False,,,not_selected
+Sample1KN.mp3,4,107.1,138.3,31.200000000000017,,01:47.100,02:18.300,,False,,,not_selected
+Sample1KN.mp3,5,172.6,175.3,2.700000000000017,,02:52.600,02:55.300,,False,,,not_selected
+Sample1KN.mp3,6,268.0,308.4,40.39999999999998,,04:28.000,05:08.400,1,True,268.0,308.4,selected_as_customer_1
+Sample1KN.mp3,7,322.6,334.8,12.199999999999989,,05:22.600,05:34.800,,False,,,not_selected
+Sample1KN.mp3,8,340.2,370.7,30.5,,05:40.200,06:10.700,,False,,,not_selected
+Sample1KN.mp3,9,376.4,383.0,6.600000000000023,,06:16.400,06:23.000,,False,,,not_selected
+Sample1KN.mp3,10,417.7,429.0,11.300000000000011,,06:57.700,07:09.000,,False,,,not_selected
+Sample1KN.mp3,11,449.0,452.2,3.1999999999999886,,07:29.000,07:32.200,,False,,,not_selected
+Sample1KN.mp3,12,533.8,573.1,39.30000000000007,,08:53.800,09:33.100,,False,,,not_selected
+Sample1KN.mp3,13,581.0,626.5,45.5,,09:41.000,10:26.500,2,True,581.0,626.5,selected_as_customer_2
+Sample1KN.mp3,14,631.9,634.6,2.7000000000000455,,10:31.900,10:34.600,,False,,,not_selected

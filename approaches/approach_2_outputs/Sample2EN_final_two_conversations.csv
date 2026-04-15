@@ -1,0 +1,3 @@
+audio_name,customer_index,start,end,duration,start_hms,end_hms,method,score,source_conversation_ids
+Sample2EN.mp3,1,17.848,209.0,191.152,00:17.848,03:29.000,top_2_longest_vad_candidates,191.152,1
+Sample2EN.mp3,2,216.056,352.776,136.72,03:36.056,05:52.776,top_2_longest_vad_candidates,136.72,2

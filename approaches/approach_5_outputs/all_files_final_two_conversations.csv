@@ -1,0 +1,7 @@
+audio_name,customer_index,start,end,duration,start_hms,end_hms,method,score,source_conversation_ids
+Sample1KN.mp3,1,0.031,268.023,267.992,00:00.031,04:28.023,dense_asr_boundary,,
+Sample1KN.mp3,2,268.023,661.818,393.79499999999996,04:28.023,11:01.818,dense_asr_boundary,,
+Sample2EN.mp3,1,18.183,379.59,361.407,00:18.183,06:19.590,dense_asr_boundary,,
+Sample2EN.mp3,2,379.61,921.34,541.73,06:19.610,15:21.340,dense_asr_boundary,,
+sample3KN.mp3,1,0.031,146.894,146.863,00:00.031,02:26.894,dense_asr_boundary,,
+sample3KN.mp3,2,148.379,362.472,214.093,02:28.379,06:02.472,dense_asr_boundary,,

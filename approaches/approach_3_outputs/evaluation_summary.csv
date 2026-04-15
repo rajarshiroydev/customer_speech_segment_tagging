@@ -1,0 +1,4 @@
+approach,audio_name,mean_abs_start_error_s,mean_abs_end_error_s,mean_iou
+approach_3_vad_diarization,Sample1KN.mp3,131.96,351.552,0.029159324142220378
+approach_3_vad_diarization,Sample2EN.mp3,0.691999999999986,239.14,0.3797064855220449
+approach_3_vad_diarization,sample3KN.mp3,92.35999999999999,59.19999999999999,0.2909588609180299
