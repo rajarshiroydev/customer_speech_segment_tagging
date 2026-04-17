@@ -1,4 +1,4 @@
 approach,audio_name,mean_abs_start_error_s,mean_abs_end_error_s,mean_iou
-approach_1_baseline,Sample1KN.mp3,156.5,57.55000000000001,0.21651069518716576
-approach_1_baseline,Sample2EN.mp3,154.54999999999998,374.6,0.2565824825362708
-approach_1_baseline,sample3KN.mp3,45.95,121.25,0.27562958714011254
+approach_1_energy_baseline,Sample1KN.mp3,107.16000000000003,0.6850000000000023,0.6969771012973263
+approach_1_energy_baseline,Sample2EN.mp3,207.20000000000002,498.47,0.11762096774193548
+approach_1_energy_baseline,sample3KN.mp3,0.20000000000000284,125.11,0.302534553113071

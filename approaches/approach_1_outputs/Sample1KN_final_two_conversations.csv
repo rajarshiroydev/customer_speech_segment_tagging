@@ -1,3 +1,3 @@
 audio_name,customer_index,start,end,duration,start_hms,end_hms,method,score,source_conversation_ids
-Sample1KN.mp3,1,268.0,308.4,40.39999999999998,04:28.000,05:08.400,top_2_longest_baseline_candidates,40.39999999999998,6
-Sample1KN.mp3,2,581.0,626.5,45.5,09:41.000,10:26.500,top_2_longest_baseline_candidates,45.5,13
+Sample1KN.mp3,1,223.63,389.02,165.39,03:43.630,06:29.020,top_2_longest_energy_candidates,165.39,3
+Sample1KN.mp3,2,513.31,659.61,146.30000000000007,08:33.310,10:59.610,top_2_longest_energy_candidates,146.30000000000007,9

@@ -9,3 +9,4 @@ approaches_old
 .vscode
 .windsurf-server
 __pycache__
+.lightning_studio/

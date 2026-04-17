@@ -1,7 +1,7 @@
 audio_name,customer_index,start,end,duration,start_hms,end_hms,method,score,source_conversation_ids
-Sample1KN.mp3,1,268.0,308.4,40.39999999999998,04:28.000,05:08.400,top_2_longest_baseline_candidates,40.39999999999998,6
-Sample1KN.mp3,2,581.0,626.5,45.5,09:41.000,10:26.500,top_2_longest_baseline_candidates,45.5,13
-Sample2EN.mp3,1,17.8,209.0,191.2,00:17.800,03:29.000,top_2_longest_baseline_candidates,191.2,1
-Sample2EN.mp3,2,216.1,352.8,136.70000000000002,03:36.100,05:52.800,top_2_longest_baseline_candidates,136.70000000000002,2
-sample3KN.mp3,1,0.2,48.1,47.9,00:00.200,00:48.100,top_2_longest_baseline_candidates,47.9,1
-sample3KN.mp3,2,56.3,213.4,157.10000000000002,00:56.300,03:33.400,top_2_longest_baseline_candidates,157.10000000000002,2
+Sample1KN.mp3,1,223.63,389.02,165.39,03:43.630,06:29.020,top_2_longest_energy_candidates,165.39,3
+Sample1KN.mp3,2,513.31,659.61,146.30000000000007,08:33.310,10:59.610,top_2_longest_energy_candidates,146.30000000000007,9
+Sample2EN.mp3,1,18.04,105.55,87.50999999999999,00:18.040,01:45.550,top_2_longest_energy_candidates,87.50999999999999,1
+Sample2EN.mp3,2,110.64,208.51,97.86999999999999,01:50.640,03:28.510,top_2_longest_energy_candidates,97.86999999999999,2
+sample3KN.mp3,1,0.0,47.54,47.54,00:00.000,00:47.540,top_2_longest_energy_candidates,47.54,1
+sample3KN.mp3,2,148.4,206.24,57.84,02:28.400,03:26.240,top_2_longest_energy_candidates,57.84,7
